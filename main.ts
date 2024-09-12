@@ -6,3 +6,11 @@
 */
 
 basic.showString('Hello, Skibiti!')
+basic.showLeds(`
+. # . # .
+# # # # #
+# # # # #
+. # # # .
+. . # . .
+`)
+
